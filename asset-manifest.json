@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/meal-finder-aap/static/css/main.eb4123f7.chunk.css",
+    "main.js": "/meal-finder-aap/static/js/main.c0178d7f.chunk.js",
+    "main.js.map": "/meal-finder-aap/static/js/main.c0178d7f.chunk.js.map",
+    "runtime-main.js": "/meal-finder-aap/static/js/runtime-main.e607c192.js",
+    "runtime-main.js.map": "/meal-finder-aap/static/js/runtime-main.e607c192.js.map",
+    "static/js/2.3ac29d5b.chunk.js": "/meal-finder-aap/static/js/2.3ac29d5b.chunk.js",
+    "static/js/2.3ac29d5b.chunk.js.map": "/meal-finder-aap/static/js/2.3ac29d5b.chunk.js.map",
+    "index.html": "/meal-finder-aap/index.html",
+    "static/css/main.eb4123f7.chunk.css.map": "/meal-finder-aap/static/css/main.eb4123f7.chunk.css.map",
+    "static/js/2.3ac29d5b.chunk.js.LICENSE.txt": "/meal-finder-aap/static/js/2.3ac29d5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e607c192.js",
+    "static/js/2.3ac29d5b.chunk.js",
+    "static/css/main.eb4123f7.chunk.css",
+    "static/js/main.c0178d7f.chunk.js"
+  ]
+}
